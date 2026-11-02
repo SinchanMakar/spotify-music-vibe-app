@@ -1,0 +1,6 @@
+Metric,Value
+Input rows,114000
+Valid rows clustered,113842
+Rows excluded,158
+Silhouette sample size,10000
+Duplicate track_name + artists rows,32644
